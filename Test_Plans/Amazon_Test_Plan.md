@@ -1,62 +1,50 @@
-# Amazon Website Test Plan
+# \# Amazon Login Test Plan
 
-## Objective
+# 
 
+# \## Objective
 
+# Verify that users can log into the system correctly.
 
-To verify that the core user functionalities of Amazon work correctly.
+# 
 
+# \## Features To Test
 
+# \- Login
 
+# \- Forgot Password
 
+# \- Remember Me
 
-## Scope
+# \- Logout
 
+# 
 
+# \## Features Not Tested
 
-Features to Test:
+# \- Payments
 
-* Login
-* Search
-* Product Page
-* Cart
-* Checkout
+# \- Product Search
 
+# \- Checkout
 
+# 
 
+# \## Test Environment
 
+# OS: Windows 11
 
-## Out of Scope
+# Browser: Chrome
 
-* Payment Gateway
-* Admin Features
+# 
 
+# \## Entry Criteria
 
+# Login page accessible.
 
+# 
 
+# \## Exit Criteria
 
-
-
-## Test Environment
-
-Browser: Chrome
-OS: Windows 11
-
-
-
-
-
-## Risks
-
-* Third-party payment dependencies
-
-
-
-## Entry Criteria
-
-Website accessible.
-
-## Exit Criteria
-
-All critical test cases executed.
+# All test cases executed.
 

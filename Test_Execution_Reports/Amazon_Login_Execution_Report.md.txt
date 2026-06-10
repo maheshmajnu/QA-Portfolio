@@ -1,0 +1,19 @@
+# Test Execution Report
+
+## Project
+Amazon Login Module
+
+## Execution Date
+10 June 2026
+
+## Summary
+
+Total Test Cases: 25
+
+Passed: 25
+Failed: 0
+Blocked: 0
+
+## Conclusion
+
+Login functionality is working as expected.
